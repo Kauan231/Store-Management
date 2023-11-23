@@ -5,7 +5,7 @@ This project was developed using C++, [Mysql connector](https://dev.mysql.com/do
 
 The Store Management system operates on a structured division of responsibilities between the Manager and the Dealer, each equipped with specific options tailored to their roles.
 
-#**Manager's Capabilities:** 
+# **Manager's Capabilities:** 
 
 - View a comprehensive list of all employees.
 - Add or Remove an Employee:
@@ -13,7 +13,7 @@ The Store Management system operates on a structured division of responsibilitie
 - When removing an employee, the Manager can search by first name or full name. The system provides query results with compatible matches, and if multiple employees share the same first name, the Manager can select the intended option.
 - Access a log of all employee actions, detailing product sales, additions, removals, or refills. This information is logged in the database with timestamps for each action.
 - 
-#**Dealer's Capabilities:**
+# **Dealer's Capabilities:**
 
 - View a comprehensive list of all products.
 - Add or Remove a product.
@@ -22,9 +22,9 @@ The Store Management system operates on a structured division of responsibilitie
 
 The login system employs a username-password pair, checked against the login table. After successful authentication, the system cross-references the user UUID with the employees' table to retrieve the logged employee's name and role. The employee's profile is then stored in a session, allowing the system to present the appropriate Dealer or Manager options. Each subsequent action is logged using the UUID, noting the action type (Sell, Add, Refill, Remove), the amount involved, and the timestamp.
 
-#**Database Structure:**
+# **Database Structure:**
 
-##**Tables:**
+## **Tables:**
 
 - employees: idEmployee (Primary Key), nameEmployee, roleEmployee.
 

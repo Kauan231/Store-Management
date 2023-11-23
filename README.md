@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Kauan231/Store-Management/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Kauan231/Store-Management/blob/main/README.pt-br.md)
+
 # Store-Management
 https://github.com/Kauan231/Store-Management/assets/63317471/60509131-8274-4008-b775-e1752a95ae4c
 

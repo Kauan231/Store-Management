@@ -1,7 +1,7 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Kauan231/Store-Management/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Kauan231/Store-Management/blob/main/README.pt-br.md)
 
-# Store Management
+# Store-Management
 
 Este projeto foi desenvolvido usando C++, [Mysql connector](https://dev.mysql.com/doc/dev/connector-cpp/latest/) e [Boost Libraries](https://www.boost.org/).
 

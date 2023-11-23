@@ -24,7 +24,8 @@ The login system employs a username-password pair, checked against the login tab
 
 Database Structure:
 
-- Tables:
+Tables:
+
 employees: idEmployee (Primary Key), nameEmployee, roleEmployee.
 
 products: idProduct (Primary Key), nameProduct, AmountProduct.

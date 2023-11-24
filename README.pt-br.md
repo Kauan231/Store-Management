@@ -3,6 +3,8 @@
 
 # Store-Management
 
+https://github.com/Kauan231/Store-Management/assets/63317471/693bfa36-8576-4aa2-8943-79012a86ee3c
+
 Este projeto foi desenvolvido usando C++, [Mysql connector](https://dev.mysql.com/doc/dev/connector-cpp/latest/) e [Boost Libraries](https://www.boost.org/).
 
 O sistema de Gerenciamento de Loja opera com uma divisão estruturada de responsabilidades entre o Gerente e o Vendedor, cada um equipado com opções específicas adaptadas aos seus papéis.

@@ -15,7 +15,7 @@ The Store Management system operates on a structured division of responsibilitie
 - During employee addition, the Manager can assign a name and role (either dealer or manager). Subsequently, the system generates a unique username-password pair for the employee's system login.
 - When removing an employee, the Manager can search by first name or full name. The system provides query results with compatible matches, and if multiple employees share the same first name, the Manager can select the intended option.
 - Access a log of all employee actions, detailing product sales, additions, removals, or refills. This information is logged in the database with timestamps for each action.
-- 
+  
 # **Dealer's Capabilities:**
 
 - View a comprehensive list of all products.

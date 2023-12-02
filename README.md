@@ -29,10 +29,10 @@ The login system employs a username-password pair, checked against the login tab
 
 ## **Tables:**
 
-- employees: idEmployee (Primary Key), nameEmployee, roleEmployee.
+- employees: idEmployee (FK), nameEmployee, roleEmployee.
 
-- products: idProduct (Primary Key), nameProduct, AmountProduct.
+- products: idProduct (FK), nameProduct, AmountProduct.
 
-- login: idUser (Primary Key), username, password.
+- login: idUser (FK), username, password.
 
-- log: idUser (Primary Key), Action, Amount, Time.
+- log: idUser (FK), Action, Amount, Time.

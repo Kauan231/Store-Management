@@ -30,10 +30,10 @@ O sistema de login utiliza um par de nome de usuário e senha, verificado na tab
 
 ## **Tabelas:**
 
-- **employees:** idEmployee (Chave Primária), nameEmployee, roleEmployee.
+- **employees:** idEmployee (FK), nameEmployee, roleEmployee.
 
-- **products:** idProduct (Chave Primária), nameProduct, AmountProduct.
+- **products:** idProduct (FK), nameProduct, AmountProduct.
 
-- **login:** idUser (Chave Primária), username, password.
+- **login:** idUser (FK), username, password.
 
-- **log:** idUser (Chave Primária), Ação, Quantidade, Hora.
+- **log:** idUser (FK), Ação, Quantidade, Hora.
